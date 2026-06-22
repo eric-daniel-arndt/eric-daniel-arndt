@@ -1,6 +1,6 @@
 ## Eric Daniel Arndt
 
-DevOps / Site Reliability Engineer, Arizona, USA.
+DevOps / Site Reliability Engineer based in Arizona, USA.
 
 Five years operating Kubernetes-based infrastructure on Azure — AKS cluster 
 migrations, MLOps pipelines on Databricks, Helm-managed release workflows, 
